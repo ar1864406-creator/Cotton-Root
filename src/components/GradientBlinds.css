@@ -1,0 +1,41 @@
+
+.gradient-blinds {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.blind-slat {
+  flex: 1;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.blind-content {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    hsl(var(--primary) / 0.05),
+    transparent
+  );
+  transform: translateY(-100%);
+}
+
+.animate-blind-sweep {
+  animation: blind-sweep 8s ease-in-out infinite;
+}
+
+@keyframes blind-sweep {
+  0%, 100% {
+    transform: translateY(-100%);
+  }
+  50% {
+    transform: translateY(100%);
+  }
+}

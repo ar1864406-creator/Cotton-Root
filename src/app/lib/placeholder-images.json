@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "brand-logo",
+      "description": "Official Cotton Root Sourcing & Trading Logo",
+      "imageUrl": "https://picsum.photos/seed/cotton-root-official-brand/800/800",
+      "imageHint": "cotton root branding logo"
+    },
+    {
+      "id": "atomix-3d",
+      "description": "Atomix 3D Physics Playground",
+      "imageUrl": "https://picsum.photos/seed/atomix/800/600",
+      "imageHint": "3d physics space"
+    },
+    {
+      "id": "taskflow-app",
+      "description": "TaskFlow Minimal Productivity App",
+      "imageUrl": "https://picsum.photos/seed/taskflow/800/600",
+      "imageHint": "minimal workspace productivity"
+    },
+    {
+      "id": "neocart-ecommerce",
+      "description": "NeoCart E-Commerce Concept",
+      "imageUrl": "https://picsum.photos/seed/neocart/800/600",
+      "imageHint": "modern ecommerce fashion"
+    },
+    {
+      "id": "profile-pic",
+      "description": "Muhammad Rayyan Profile",
+      "imageUrl": "https://picsum.photos/seed/rayyan/400/400",
+      "imageHint": "developer portrait"
+    }
+  ]
+}
