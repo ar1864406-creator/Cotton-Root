@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "brand-logo",
+      "description": "Official Cotton Root Sourcing & Trading Logo",
+      "imageUrl": "https://picsum.photos/seed/cotton-root-official-brand/800/800",
+      "imageHint": "cotton root branding logo"
+    },
+    {
+      "id": "atomix-3d",
+      "description": "Atomix 3D Physics Playground",
+      "imageUrl": "https://images.unsplash.com/photo-1690683789766-93253a3422c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHh8fHx8fHx8MTc3MTU5NzY4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "3d physics space"
+    },
+    {
+      "id": "taskflow-app",
+      "description": "TaskFlow Minimal Productivity App",
+      "imageUrl": "https://images.unsplash.com/photo-1617294891800-30497d3cbee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHh8fHx8fHx8MTc3MTU5NzY4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimal workspace productivity"
+    },
+    {
+      "id": "neocart-ecommerce",
+      "description": "NeoCart E-Commerce Concept",
+      "imageUrl": "https://images.unsplash.com/photo-1598363777525-4818477ba9f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHh8fHx8fHx8MTc3MTU5NzY4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern ecommerce fashion"
+    },
+    {
+      "id": "profile-pic",
+      "description": "Muhammad Rayyan Profile",
+      "imageUrl": "https://images.unsplash.com/photo-1752859951149-7d3fc700a7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHh8fHx8fHx8MTc3MTU2Njk0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "developer portrait"
+    }
+  ]
+}
